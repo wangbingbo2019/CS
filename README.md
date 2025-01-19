@@ -67,6 +67,8 @@ Lr: link removal (Lr), the category of adjacent links, which indicates whether a
 ## Description of supplementary tables  
 Table S1 Gene list of 8 biological functional dataset.  
 
+Table S2 Functional profile of genes with different control signatures
+
 Table S3 Control signature of nodes in biological networks.  
 
 Table S4 Biological enrichment of nodes with different control signatures.  
