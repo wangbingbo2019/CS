@@ -85,6 +85,9 @@ Table S9 Mapping between diseases and tissues.
 
 Table S10 Description of details in Figure.4C.  
 
+## Orignal data
+**IBN Integrated by the six networks.rar ** contains the six curated directed network
+
 ## References  
 [1]	LIU Y Y, SLOTINE J J, BARABÁSI A L. Controllability of complex networks.[J]. Nature, 2011, 473(7346): 167-173.  
 
