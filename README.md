@@ -1,4 +1,6 @@
 # CS
+Paper describing this work has been published in Frontiers of Computer Science (FCS) special column “Code & Data”.
+Cited as:  Yaoqi SHOU, Bingbo WANG, Zitian YANG. TripletDGC: assessing critical cell types of disease genes by integrating single-cell genomics and human genetics. Front. Comput. Sci., 2025, 19(10): 1910919 https://doi.org/10.1007/s11704-025-41165-y
 ## This is the software package for indicating control signature of nodes in directed biological networks
 ### I. Operating environment
 Python 3  
